@@ -41,4 +41,4 @@ public class Demo{
 ![Screenshot 2025-05-09 135102](https://github.com/user-attachments/assets/2ca7fb2c-47f4-44a4-aaa9-26c3c2628c35)
 
 ## RESULT:
-Thus the java program to set the length of the character sequence equal to newLength using stringbuffer class.
+Thus the java program to set the length of the character sequence equal to newLength using stringbuffer class executed successfully.
