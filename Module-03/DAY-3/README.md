@@ -42,7 +42,7 @@ public class Demo{
 
 
 ## RESULT:
-Thus the java program to convert string into a character array and display it in a specific format.
+Thus the java program to convert string into a character array and display it in a specific format executed successfully.
 
 
 
