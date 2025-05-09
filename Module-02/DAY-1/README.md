@@ -48,5 +48,5 @@ public class AreaOfCircleMethod
 
 
 ## RESULT:
-Thus the java program for calculate cube of a number using static method has been executed successfully.
+Thus , To calculate and display the area of a circle using a method is done successfully.
 
