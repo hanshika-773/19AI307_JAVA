@@ -64,6 +64,7 @@ public class Grade extends Student {
 ```
 ## OUTPUT:
 
+![Screenshot 2025-05-09 140442](https://github.com/user-attachments/assets/97c29900-343a-4ff3-88b4-3ceb7f8175c4)
 
 
 ## RESULT:
