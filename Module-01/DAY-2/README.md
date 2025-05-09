@@ -45,6 +45,7 @@ public class Demo{
 
 ## OUTPUT:
 
+![Screenshot 2025-05-09 132153](https://github.com/user-attachments/assets/4a52f1e8-c401-449a-ac01-e420fdb279c2)
 
 
 ## RESULT:
