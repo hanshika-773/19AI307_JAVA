@@ -35,9 +35,10 @@ public class Demo{
 
 ## OUTPUT:
 
+![Screenshot 2025-05-09 112905](https://github.com/user-attachments/assets/b77422a6-b070-4ddd-9963-ea3ce73dc46f)
 
 
 ## RESULT:
-Thus the java program to display the addition number using private modifiers only was executed successfully.
+Thus the java program to print all numbers divisible by 7 from 100 to 1 in descending order is done successfully.
 
 
