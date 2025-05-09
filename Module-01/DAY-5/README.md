@@ -44,5 +44,5 @@ public class Demo{
 
 
 ## RESULT:
-Thus, the Java program for the concept of using a static variable for shared data was correctly implemented and verified successfully. 
+Thus, Java program to get the values of variables 'a' and 'b' respectively and check if atleast one of the conditions 'a < 50' or 'a < b' is true is executed successfully.
 
