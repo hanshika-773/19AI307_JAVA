@@ -38,5 +38,5 @@ public class Demo{
 ![Screenshot 2025-05-09 134816](https://github.com/user-attachments/assets/780c6667-35b3-404d-acd5-5599fe6544d8)
 
 ## RESULT:
-Thus the java Program to compare three input strings using case-insensitive comparison in Java.
+Thus the java Program to compare three input strings using case-insensitive comparison in Java executed successfully.
 
