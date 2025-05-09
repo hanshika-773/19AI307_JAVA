@@ -1,4 +1,4 @@
-# Ex.No:2(E)  SMALLEST ELEMENT IN AN ARRAY
+# Ex.No:2(E) Array Input
 
 ## AIM:
 To read and display elements of four integer arrays using user input in Java.
