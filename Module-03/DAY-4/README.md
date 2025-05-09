@@ -41,4 +41,4 @@ public class Demo{
 
 
 ## RESULT:
-Thus the java program To tokenize a string using multiple delimiters and display each token in Java.
+Thus the java program To tokenize a string using multiple delimiters and display each token in Java executed successfully.
