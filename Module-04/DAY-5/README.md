@@ -9,8 +9,6 @@ To read and display multiple lines of character input using a do-while loop in J
 4. Print each input line immediately after reading it.
 5. Continue the loop until `i <= a` to collect all the required inputs including handling the initial newline after `nextInt()`.
 
-> **Note:** The extra line (`a + 1`) is needed because `nextInt()` does not consume the newline character, so the first `nextLine()` reads an empty string.
-
 ## PROGRAM:
  ```
 /*
