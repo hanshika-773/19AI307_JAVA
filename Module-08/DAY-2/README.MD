@@ -1,6 +1,6 @@
 # Ex.No:8(B) IO-FILE READER/WRITER
 ## AIM:
-To create a java program to append a NUMBER in a file “testout.txt” using Writer.
+To read characters from a string using StringReader and store them in a character array.
 
 
 ## ALGORITHM :
@@ -35,7 +35,7 @@ RegisterNumber:
 
 
 ## RESULT:
-Thus, the java program to append a NUMBER in a file “testout.txt” using Writer.was executed and verified successfully
+Thus, the java program To read characters from a string using StringReader and store them in a character array executed successfully.
 
 
 
